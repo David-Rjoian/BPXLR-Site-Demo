@@ -1,0 +1,68 @@
+
+a, hr, h1, h2, h3, p, svg {
+    color: rgba(0,0,0,2);
+}
+
+body {
+}
+
+.main_title {
+    border-radius: 30px;
+    color: black;
+}
+
+.non_main_title {
+    background: #ffffff60;
+    border-radius: 30px;
+    color: aliceblue;
+}
+
+.colector {
+    background: #ffffff05;
+    border-radius: 30px;
+}
+
+.main_hr {
+    background: black;
+}
+
+.link_1, .link_2, .link_3 {
+    color: rgba(0,0,0,2);
+}
+
+.link_1:hover {
+    background: #00000005;
+    box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.01) inset;
+}
+
+.link_2:hover {
+    background: #00000005;
+    box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.01) inset;
+}
+.link_3:hover {
+    background: #00000005;
+    box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.01) inset;
+}
+
+.music_box {
+    background: #ffffff60;
+    border-radius: 30px;
+}
+
+.music_date {
+    color: rgba(0,0,0,2);
+}
+
+.music_link {
+    color: #1ccc30;
+}
+
+.theme_change {
+    background: #00000050;
+    color: aliceblue;
+}
+
+.theme_change:hover {
+    background: #000000a1;
+
+}
